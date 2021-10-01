@@ -1,0 +1,1 @@
+call APRSWXUDPSender.exe /runselector /-minimized

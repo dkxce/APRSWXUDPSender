@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WXConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PARAM id="0" type="str" name="APRS_SERVER" caption="APRS Сервер">russia.aprs2.net</PARAM>
+  <PARAM id="1" type="int" name="APRS_PORT" caption="UDP порт сервера">8080</PARAM>
+  <PARAM id="2" type="cal" name="APRS_CALLSIGN" caption="Позывной станции (Callsign)">NOCALL-WX</PARAM>
+  <PARAM id="3" type="pas" name="APRS_PASSWORD" caption="APRS Пароль (Password)">-1</PARAM>
+  <PARAM id="4" type="loc" name="APRS_LOCATION" caption="Локатор станции" />
+  <PARAM id="5" type="str" name="APRS_STATUS" caption="Статус" />
+  <PARAM id="6" type="str" name="APRS_COMMENT" caption="Комментарий">Testing...</PARAM>
+  <PARAM id="7" type="lat" name="APRS_LATITUDE" caption="Широта">00.000000 N</PARAM>
+  <PARAM id="8" type="lon" name="APRS_LONGITUDE" caption="Долгота">00.000000 E</PARAM>
+  <PARAM id="9" type="int" name="INC_HTTPPORT" caption="Входящий HTTP и TCP порт">80</PARAM>
+  <PARAM id="10" type="str" name="TIME_ZONE" caption="Часовой пояс (+/-) час">+3</PARAM>
+  <PARAM id="11" type="sel" name="APRS_SELECTOR" caption="Селектор (условие выбора конфигурации)">([?|&amp;]imei=0000)?</PARAM>
+  <PARAM id="12" type="par" name="time_utc" caption="Время, UTC (чч:мм[:сс])">[?|&amp;]time_utc=(?&lt;time_utc&gt;[\d\:]{0,8})</PARAM>
+  <PARAM id="13" type="par" name="time_loc" caption="Время, локальное (чч:мм[:сс])">[?|&amp;]time_loc=(?&lt;time_loc&gt;[\d\:]{0,8})</PARAM>
+  <PARAM id="14" type="par" name="date_utc" caption="Дата и Время, UTC">[?|&amp;]date_utc=(?&lt;date_utc&gt;[\d\:]{0,8})</PARAM>
+  <PARAM id="15" type="par" name="date_loc" caption="Дата и Время, локальное">[?|&amp;]date_loc=(?&lt;date_loc&gt;[\d\:]{0,8})</PARAM>
+  <PARAM id="16" type="par" name="wind_dir" caption="Ветер, направление (град)">[?|&amp;]wind_dir=(?&lt;wind_dir&gt;[\d\.]+)</PARAM>
+  <PARAM id="17" type="par" name="wind_mph" caption="Ветер, скорость (мили/ч)">[?|&amp;]wind_mph=(?&lt;wind_mph&gt;[\d\.]+)</PARAM>
+  <PARAM id="18" type="par" name="wind_kph" caption="Ветер, скорость (км/ч)">[?|&amp;]wind_kph=(?&lt;wind_kph&gt;[\d\.]+)</PARAM>
+  <PARAM id="19" type="par" name="wind_mps" caption="Ветер, скорость (м/с)">[?|&amp;]wind_mps=(?&lt;wind_mps&gt;[\d\.]+)</PARAM>
+  <PARAM id="20" type="par" name="gust_mph" caption="Порывы, скорость (мили/ч)">[?|&amp;]gust_mph=(?&lt;gust_mph&gt;[\d\.]+)</PARAM>
+  <PARAM id="21" type="par" name="gust_kph" caption="Порывы, скорость (км/ч)">[?|&amp;]gust_kph=(?&lt;gust_kph&gt;[\d\.]+)</PARAM>
+  <PARAM id="22" type="par" name="gust_mps" caption="Порывы, скорость (м/с)">[?|&amp;]gust_mps=(?&lt;gust_mps&gt;[\d\.]+)</PARAM>
+  <PARAM id="23" type="par" name="temp_fah" caption="Температура (фаренгейт)">[?|&amp;]temp_fah=(?&lt;temp_fah&gt;[\d\.]+)</PARAM>
+  <PARAM id="24" type="par" name="temp_cel" caption="Температура (цельсий)">[?|&amp;]temp_cel=(?&lt;temp_cel&gt;[\d\.]+)</PARAM>
+  <PARAM id="25" type="par" name="rain_h100" caption="Осадки, за час (в сотых дюйма)">[?|&amp;]rain_h100=(?&lt;rain_h100&gt;[\d\.]+)</PARAM>
+  <PARAM id="26" type="par" name="rain_hinc" caption="Осадки, за час (в дюймах)">[?|&amp;]rain_hinc=(?&lt;rain_hinc&gt;[\d\.]+)</PARAM>
+  <PARAM id="27" type="par" name="rain_hmm" caption="Осадки, за час (в мм)">[?|&amp;]rain_hmm=(?&lt;rain_hmm&gt;[\d\.]+)</PARAM>
+  <PARAM id="28" type="par" name="rain_d100" caption="Осадки, за сутки (в сотых дюйма)">[?|&amp;]rain_d100=(?&lt;rain_d100&gt;[\d\.]+)</PARAM>
+  <PARAM id="29" type="par" name="rain_dinc" caption="Осадки, за сутки (в дюймах)">[?|&amp;]rain_dinc=(?&lt;rain_dinc&gt;[\d\.]+)</PARAM>
+  <PARAM id="30" type="par" name="rain_dmm" caption="Осадки, за сутки (в мм)">[?|&amp;]rain_dmm=(?&lt;rain_dmm&gt;[\d\.]+)</PARAM>
+  <PARAM id="31" type="par" name="rain_n100" caption="Осадки, c 00:00 (в сотых дюйма)">[?|&amp;]rain_n100=(?&lt;rain_n100&gt;[\d\.]+)</PARAM>
+  <PARAM id="32" type="par" name="rain_ninc" caption="Осадки, c 00:00 (в дюймах)">[?|&amp;]rain_ninc=(?&lt;rain_ninc&gt;[\d\.]+)</PARAM>
+  <PARAM id="33" type="par" name="rain_nmm" caption="Осадки, c 00:00 (в мм)">[?|&amp;]rain_nmm=(?&lt;r_nmm&gt;[\d\.]+)</PARAM>
+  <PARAM id="34" type="par" name="humi_per" caption="Влажность (в %)">[?|&amp;]humi_per=(?&lt;humi_per&gt;[\d\.]+)</PARAM>
+  <PARAM id="35" type="par" name="bar_m10" caption="Давление (в 1/10 миллибара)">[?|&amp;]bar_m10=(?&lt;bar_m10&gt;[\d\.]+)</PARAM>
+  <PARAM id="36" type="par" name="bar_mil" caption="Давление (в миллибарах)">[?|&amp;]bar_mil=(?&lt;bar_mil&gt;[\d\.]+)</PARAM>
+  <PARAM id="37" type="par" name="bar_bar" caption="Давление (в барах/гПа)">[?|&amp;]bar_bar=(?&lt;bar_bar&gt;[\d\.]+)</PARAM>
+  <PARAM id="38" type="par" name="bar_mmh" caption="Давление (в мм. рт. ст.)">[?|&amp;]bar_mmh=(?&lt;bar_mmh&gt;[\d\.]+)</PARAM>
+  <PARAM id="39" type="par" name="snow_in" caption="Снег, за сутки (в дюймах)">[?|&amp;]snow_in=(?&lt;snow_in&gt;[\d\.]+)</PARAM>
+  <PARAM id="40" type="par" name="snow_mm" caption="Снег, за сутки (в мм)">[?|&amp;]snow_mm=(?&lt;snow_mm&gt;[\d\.]+)</PARAM>
+  <PARAM id="41" type="ico" name="APRS_ICON" caption="Символ (иконка) /_">/_</PARAM>
+  <PARAM id="42" type="yno" name="ALLOW_EDIT" caption="Позволять редактировать пакет">Нет</PARAM>
+  <PARAM id="43" type="yno" name="Minimized" caption="Запускать приложение свернутым">Нет</PARAM>
+  <PARAM id="44" type="int" name="INC_TIME" caption="За какое время отправлять данные (мин)">60</PARAM>
+  <PARAM id="45" type="yno" name="SEND_WX" caption="Отправлять погоду на сервер при обновлении">Нет</PARAM>
+  <PARAM id="46" type="yno" name="TCP" caption="Обрабатывать не HTTP пакеты">Да</PARAM>
+  <PARAM id="47" type="yno" name="START" caption="Пуск">Нет</PARAM>
+</WXConfig>

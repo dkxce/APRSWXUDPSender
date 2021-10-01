@@ -1,0 +1,34 @@
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.Form1.resources
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.Properties.Resources.resources
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.csproj.GenerateResource.Cache
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\APRS\MyAPRSSoft\APRSForwarder\bin\Debug\SimplifyAPRSSender.exe
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\APRS\MyAPRSSoft\APRSForwarder\bin\Debug\SimplifyAPRSSender.pdb
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.exe
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.pdb
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.exe
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.pdb
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarder\bin\Debug\SimplifyAPRSSender.exe
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarder\bin\Debug\SimplifyAPRSSender.pdb
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.Form1.resources
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.Properties.Resources.resources
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\MyAPRSSoft\APRSForwarder\bin\Debug\SimplifyAPRSSender.exe
+C:\Downloads\CD-REC\MyAPRSSoft\APRSForwarder\bin\Debug\SimplifyAPRSSender.pdb
+C:\Downloads\CD-REC\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.Form1.resources
+C:\Downloads\CD-REC\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.Properties.Resources.resources
+C:\Downloads\CD-REC\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.exe
+C:\Downloads\CD-REC\MyAPRSSoft\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.pdb
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarderSvc\APRSForwarder\bin\Debug\SimplifyAPRSSender.exe
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarderSvc\APRSForwarder\bin\Debug\SimplifyAPRSSender.pdb
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarderSvc\SimplifyAPRSSender\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarderSvc\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.Form1.resources
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarderSvc\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.Properties.Resources.resources
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarderSvc\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.csproj.GenerateResource.Cache
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarderSvc\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.exe
+D:\Projects\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSForwarderSvc\SimplifyAPRSSender\obj\Debug\SimplifyAPRSSender.pdb
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\obj\Debug\SimplifyAPRSSender.exe
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\obj\Debug\SimplifyAPRSSender.pdb

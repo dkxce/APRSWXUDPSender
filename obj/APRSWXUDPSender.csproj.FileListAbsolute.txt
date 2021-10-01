@@ -1,0 +1,20 @@
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\TEST\APRSForwarder\bin\Debug\APRSWXUDPSender.exe
+C:\Downloads\CD-REC\TEST\APRSForwarder\bin\Debug\APRSWXUDPSender.pdb
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.Properties.Resources.resources
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.exe
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.pdb
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.MainForm.resources
+C:\bin\Debug\APRSWXUDPSender.exe
+C:\bin\Debug\APRSWXUDPSender.pdb
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\bin\Debug\APRSWXUDPSender.exe
+C:\Downloads\CD-REC\TEST\APRSWXUDPSender\bin\Debug\APRSWXUDPSender.pdb
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.exe
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.pdb
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSWXUDPSender\bin\Debug\APRSWXUDPSender.exe
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSWXUDPSender\bin\Debug\APRSWXUDPSender.pdb
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSWXUDPSender\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.MainForm.resources
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.Properties.Resources.resources
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\APRSWXUDPSender\obj\Debug\APRSWXUDPSender.csproj.GenerateResource.Cache
